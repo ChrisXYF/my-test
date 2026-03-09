@@ -1,0 +1,4338 @@
+[
+  {
+    "candidate_id": "cand_006",
+    "name": "候选人6",
+    "job_title": "算法工程师",
+    "years_of_experience": 2,
+    "skills": [
+      "Deep Learning",
+      "Agent",
+      "Machine Learning"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "13k-23k",
+    "papers": [
+      "NeurIPS",
+      "ACL"
+    ],
+    "dynamic_attributes": {
+      "publications": [
+        "NeurIPS",
+        "ACL"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_017",
+    "name": "候选人17",
+    "job_title": "产品经理",
+    "years_of_experience": 10,
+    "skills": [
+      "PRD",
+      "Axure",
+      "Figma",
+      "Sketch"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "49k-65k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_076",
+    "name": "候选人76",
+    "job_title": "数据科学家",
+    "years_of_experience": 1,
+    "skills": [
+      "Python",
+      "Tableau",
+      "Hadoop",
+      "Statistics",
+      "A/B Testing"
+    ],
+    "company": "阿里巴巴",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "10k-16k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_096",
+    "name": "候选人96",
+    "job_title": "Java开发",
+    "years_of_experience": 1,
+    "skills": [
+      "K8s",
+      "Java",
+      "Docker",
+      "MySQL"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "10k-26k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_161",
+    "name": "候选人161",
+    "job_title": "前端工程师",
+    "years_of_experience": 12,
+    "skills": [
+      "Vue",
+      "HTML",
+      "React",
+      "TypeScript",
+      "CSS"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "59k-66k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2435
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_166",
+    "name": "候选人166",
+    "job_title": "前端工程师",
+    "years_of_experience": 6,
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "CSS",
+      "Webpack",
+      "React",
+      "JavaScript"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "27k-40k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_125",
+    "name": "候选人125",
+    "job_title": "产品经理",
+    "years_of_experience": 15,
+    "skills": [
+      "Sketch",
+      "PRD",
+      "User Research",
+      "Data Analysis"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "72k-92k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1111
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_032",
+    "name": "候选人32",
+    "job_title": "Java开发",
+    "years_of_experience": 15,
+    "skills": [
+      "Kafka",
+      "K8s",
+      "Microservices",
+      "Java",
+      "MySQL",
+      "Spring Boot"
+    ],
+    "company": "美团",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "76k-93k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_198",
+    "name": "候选人198",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "Data Analysis",
+      "Axure",
+      "Figma",
+      "PRD",
+      "Sketch",
+      "User Research"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "51k-65k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_090",
+    "name": "候选人90",
+    "job_title": "前端工程师",
+    "years_of_experience": 8,
+    "skills": [
+      "JavaScript",
+      "Vue",
+      "TypeScript",
+      "React",
+      "HTML"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "广州",
+    "salary": "35k-47k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4565
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_059",
+    "name": "候选人59",
+    "job_title": "数据科学家",
+    "years_of_experience": 3,
+    "skills": [
+      "Statistics",
+      "Hadoop",
+      "A/B Testing",
+      "Python"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "11k-30k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_132",
+    "name": "候选人132",
+    "job_title": "Python开发者",
+    "years_of_experience": 14,
+    "skills": [
+      "Django",
+      "FastAPI",
+      "Flask",
+      "NumPy"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "67k-75k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_147",
+    "name": "候选人147",
+    "job_title": "前端工程师",
+    "years_of_experience": 4,
+    "skills": [
+      "CSS",
+      "HTML",
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "上海",
+    "salary": "19k-34k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2261
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_023",
+    "name": "候选人23",
+    "job_title": "数据科学家",
+    "years_of_experience": 9,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Tableau",
+      "Spark"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "41k-61k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_002",
+    "name": "候选人2",
+    "job_title": "算法工程师",
+    "years_of_experience": 6,
+    "skills": [
+      "TensorFlow",
+      "NLP",
+      "Machine Learning",
+      "CV",
+      "Deep Learning",
+      "RAG"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "26k-39k",
+    "papers": [
+      "NeurIPS"
+    ],
+    "dynamic_attributes": {
+      "github_stars": 859,
+      "tech_blog_posts": 17,
+      "publications": [
+        "NeurIPS"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_142",
+    "name": "候选人142",
+    "job_title": "Python开发者",
+    "years_of_experience": 9,
+    "skills": [
+      "Celery",
+      "Flask",
+      "Python",
+      "Django",
+      "Scrapy",
+      "FastAPI"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "47k-61k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_069",
+    "name": "候选人69",
+    "job_title": "Java开发",
+    "years_of_experience": 12,
+    "skills": [
+      "K8s",
+      "Java",
+      "Redis",
+      "Microservices"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "60k-66k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 5
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_157",
+    "name": "候选人157",
+    "job_title": "Python开发者",
+    "years_of_experience": 6,
+    "skills": [
+      "Celery",
+      "Scrapy",
+      "Flask",
+      "Python"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "26k-37k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_172",
+    "name": "候选人172",
+    "job_title": "前端工程师",
+    "years_of_experience": 8,
+    "skills": [
+      "CSS",
+      "Node.js",
+      "Vue",
+      "JavaScript",
+      "HTML",
+      "TypeScript"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "40k-47k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_079",
+    "name": "候选人79",
+    "job_title": "前端工程师",
+    "years_of_experience": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "HTML",
+      "CSS"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "上海",
+    "salary": "19k-27k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_084",
+    "name": "候选人84",
+    "job_title": "Java开发",
+    "years_of_experience": 8,
+    "skills": [
+      "Kafka",
+      "Spring Boot",
+      "K8s",
+      "Docker",
+      "MySQL",
+      "Microservices"
+    ],
+    "company": "阿里巴巴",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "43k-60k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_031",
+    "name": "候选人31",
+    "job_title": "Java开发",
+    "years_of_experience": 2,
+    "skills": [
+      "Redis",
+      "Kafka",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "15k-30k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 33
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_050",
+    "name": "候选人50",
+    "job_title": "数据科学家",
+    "years_of_experience": 6,
+    "skills": [
+      "Spark",
+      "Statistics",
+      "A/B Testing",
+      "SQL",
+      "Tableau",
+      "Hadoop"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "32k-40k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2098
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_138",
+    "name": "候选人138",
+    "job_title": "前端工程师",
+    "years_of_experience": 4,
+    "skills": [
+      "HTML",
+      "Vue",
+      "Webpack",
+      "Node.js"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "16k-22k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 37
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_021",
+    "name": "候选人21",
+    "job_title": "前端工程师",
+    "years_of_experience": 9,
+    "skills": [
+      "TypeScript",
+      "CSS",
+      "Node.js",
+      "Vue",
+      "Webpack"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "46k-62k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2256
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_019",
+    "name": "候选人19",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "Axure",
+      "Data Analysis",
+      "User Research",
+      "Sketch",
+      "Figma",
+      "PRD"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "上海",
+    "salary": "56k-65k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_041",
+    "name": "候选人41",
+    "job_title": "前端工程师",
+    "years_of_experience": 12,
+    "skills": [
+      "Webpack",
+      "Node.js",
+      "HTML",
+      "React",
+      "CSS"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "64k-79k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_058",
+    "name": "候选人58",
+    "job_title": "产品经理",
+    "years_of_experience": 15,
+    "skills": [
+      "Figma",
+      "Sketch",
+      "Axure",
+      "PRD"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "78k-88k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_091",
+    "name": "候选人91",
+    "job_title": "Java开发",
+    "years_of_experience": 12,
+    "skills": [
+      "Spring Boot",
+      "Microservices",
+      "K8s",
+      "Java"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "58k-73k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_151",
+    "name": "候选人151",
+    "job_title": "前端工程师",
+    "years_of_experience": 6,
+    "skills": [
+      "HTML",
+      "TypeScript",
+      "Vue",
+      "Webpack"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "25k-44k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_106",
+    "name": "候选人106",
+    "job_title": "产品经理",
+    "years_of_experience": 7,
+    "skills": [
+      "PRD",
+      "User Research",
+      "Axure",
+      "Figma",
+      "Sketch",
+      "Data Analysis"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "广州",
+    "salary": "30k-38k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4182,
+      "tech_blog_posts": 31
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_062",
+    "name": "候选人62",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "PRD",
+      "Data Analysis",
+      "Axure",
+      "Sketch",
+      "Figma",
+      "User Research"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "广州",
+    "salary": "58k-70k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 48
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_114",
+    "name": "候选人114",
+    "job_title": "数据科学家",
+    "years_of_experience": 8,
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Spark",
+      "Python"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "36k-51k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 33
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_056",
+    "name": "候选人56",
+    "job_title": "Java开发",
+    "years_of_experience": 12,
+    "skills": [
+      "Redis",
+      "Kafka",
+      "K8s",
+      "MySQL",
+      "Docker",
+      "Java"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "60k-75k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1612
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_179",
+    "name": "候选人179",
+    "job_title": "Java开发",
+    "years_of_experience": 4,
+    "skills": [
+      "MySQL",
+      "Java",
+      "Kafka",
+      "Docker",
+      "K8s"
+    ],
+    "company": "美团",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "18k-23k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_186",
+    "name": "候选人186",
+    "job_title": "Python开发者",
+    "years_of_experience": 8,
+    "skills": [
+      "Scrapy",
+      "Pandas",
+      "FastAPI",
+      "Celery",
+      "Django"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "上海",
+    "salary": "36k-48k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2381
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_158",
+    "name": "候选人158",
+    "job_title": "数据科学家",
+    "years_of_experience": 8,
+    "skills": [
+      "Hadoop",
+      "Tableau",
+      "Python",
+      "Spark"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "36k-54k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_057",
+    "name": "候选人57",
+    "job_title": "数据科学家",
+    "years_of_experience": 6,
+    "skills": [
+      "Spark",
+      "SQL",
+      "Tableau"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "广州",
+    "salary": "30k-37k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3354
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_093",
+    "name": "候选人93",
+    "job_title": "数据科学家",
+    "years_of_experience": 12,
+    "skills": [
+      "Hadoop",
+      "Spark",
+      "Python",
+      "Statistics"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "上海",
+    "salary": "64k-79k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_043",
+    "name": "候选人43",
+    "job_title": "Python开发者",
+    "years_of_experience": 1,
+    "skills": [
+      "Scrapy",
+      "Flask",
+      "Python",
+      "FastAPI"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "10k-20k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_089",
+    "name": "候选人89",
+    "job_title": "数据科学家",
+    "years_of_experience": 15,
+    "skills": [
+      "SQL",
+      "Python",
+      "Statistics",
+      "A/B Testing",
+      "Hadoop"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "75k-83k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_150",
+    "name": "候选人150",
+    "job_title": "Java开发",
+    "years_of_experience": 3,
+    "skills": [
+      "Spring Boot",
+      "K8s",
+      "Microservices",
+      "Redis",
+      "Docker"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "北京",
+    "salary": "18k-29k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_144",
+    "name": "候选人144",
+    "job_title": "前端工程师",
+    "years_of_experience": 2,
+    "skills": [
+      "HTML",
+      "Webpack",
+      "CSS",
+      "TypeScript"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "北京",
+    "salary": "10k-24k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_028",
+    "name": "候选人28",
+    "job_title": "数据科学家",
+    "years_of_experience": 7,
+    "skills": [
+      "Spark",
+      "Statistics",
+      "Hadoop",
+      "Tableau"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "30k-46k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_015",
+    "name": "候选人15",
+    "job_title": "产品经理",
+    "years_of_experience": 10,
+    "skills": [
+      "User Research",
+      "PRD",
+      "Figma",
+      "Sketch",
+      "Data Analysis"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "上海",
+    "salary": "51k-58k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_011",
+    "name": "候选人11",
+    "job_title": "产品经理",
+    "years_of_experience": 15,
+    "skills": [
+      "Axure",
+      "Sketch",
+      "PRD",
+      "Data Analysis"
+    ],
+    "company": "初创公司B",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "77k-83k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_129",
+    "name": "候选人129",
+    "job_title": "产品经理",
+    "years_of_experience": 3,
+    "skills": [
+      "Axure",
+      "Sketch",
+      "User Research",
+      "Data Analysis",
+      "PRD",
+      "Figma"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "上海",
+    "salary": "11k-25k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4870
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_175",
+    "name": "候选人175",
+    "job_title": "产品经理",
+    "years_of_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "User Research",
+      "Figma"
+    ],
+    "company": "腾讯",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "19k-37k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1218
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_066",
+    "name": "候选人66",
+    "job_title": "数据科学家",
+    "years_of_experience": 7,
+    "skills": [
+      "A/B Testing",
+      "SQL",
+      "Spark",
+      "Statistics"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "35k-50k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 331
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_085",
+    "name": "候选人85",
+    "job_title": "前端工程师",
+    "years_of_experience": 10,
+    "skills": [
+      "CSS",
+      "JavaScript",
+      "Vue",
+      "TypeScript",
+      "Webpack"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "北京",
+    "salary": "47k-67k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1043
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_067",
+    "name": "候选人67",
+    "job_title": "前端工程师",
+    "years_of_experience": 10,
+    "skills": [
+      "HTML",
+      "Node.js",
+      "Vue",
+      "TypeScript",
+      "React",
+      "JavaScript"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "45k-51k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 33
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_083",
+    "name": "候选人83",
+    "job_title": "Java开发",
+    "years_of_experience": 3,
+    "skills": [
+      "K8s",
+      "Redis",
+      "Microservices",
+      "Java"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "上海",
+    "salary": "19k-35k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_127",
+    "name": "候选人127",
+    "job_title": "数据科学家",
+    "years_of_experience": 5,
+    "skills": [
+      "Statistics",
+      "SQL",
+      "Hadoop",
+      "Spark",
+      "Python",
+      "A/B Testing"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "北京",
+    "salary": "21k-34k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1574
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_099",
+    "name": "候选人99",
+    "job_title": "产品经理",
+    "years_of_experience": 13,
+    "skills": [
+      "Axure",
+      "Sketch",
+      "Data Analysis",
+      "PRD",
+      "Figma"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "68k-80k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_103",
+    "name": "候选人103",
+    "job_title": "数据科学家",
+    "years_of_experience": 4,
+    "skills": [
+      "Statistics",
+      "Python",
+      "Hadoop",
+      "SQL",
+      "Spark",
+      "A/B Testing"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "23k-37k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 18
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_072",
+    "name": "候选人72",
+    "job_title": "Python开发者",
+    "years_of_experience": 4,
+    "skills": [
+      "Django",
+      "Pandas",
+      "Scrapy"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "广州",
+    "salary": "15k-34k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_064",
+    "name": "候选人64",
+    "job_title": "Python开发者",
+    "years_of_experience": 2,
+    "skills": [
+      "Pandas",
+      "Celery",
+      "Flask"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "北京",
+    "salary": "12k-25k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_109",
+    "name": "候选人109",
+    "job_title": "Python开发者",
+    "years_of_experience": 4,
+    "skills": [
+      "Scrapy",
+      "Python",
+      "FastAPI",
+      "Flask",
+      "Pandas",
+      "Django"
+    ],
+    "company": "初创公司B",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "23k-30k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_139",
+    "name": "候选人139",
+    "job_title": "Java开发",
+    "years_of_experience": 11,
+    "skills": [
+      "Kafka",
+      "Redis",
+      "Java",
+      "K8s"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "54k-59k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_063",
+    "name": "候选人63",
+    "job_title": "产品经理",
+    "years_of_experience": 3,
+    "skills": [
+      "PRD",
+      "Axure",
+      "Data Analysis"
+    ],
+    "company": "字节跳动",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "12k-24k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 27
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_176",
+    "name": "候选人176",
+    "job_title": "Python开发者",
+    "years_of_experience": 15,
+    "skills": [
+      "NumPy",
+      "Flask",
+      "Django"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "广州",
+    "salary": "76k-86k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_087",
+    "name": "候选人87",
+    "job_title": "Java开发",
+    "years_of_experience": 6,
+    "skills": [
+      "Microservices",
+      "Java",
+      "Redis"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "29k-45k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_094",
+    "name": "候选人94",
+    "job_title": "Java开发",
+    "years_of_experience": 12,
+    "skills": [
+      "K8s",
+      "Redis",
+      "Docker"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "广州",
+    "salary": "55k-72k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_039",
+    "name": "候选人39",
+    "job_title": "数据科学家",
+    "years_of_experience": 7,
+    "skills": [
+      "Spark",
+      "Statistics",
+      "SQL",
+      "Tableau",
+      "A/B Testing",
+      "Hadoop"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "35k-53k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_034",
+    "name": "候选人34",
+    "job_title": "Java开发",
+    "years_of_experience": 9,
+    "skills": [
+      "Docker",
+      "Microservices",
+      "Spring Boot"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "广州",
+    "salary": "44k-52k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_120",
+    "name": "候选人120",
+    "job_title": "Java开发",
+    "years_of_experience": 10,
+    "skills": [
+      "Redis",
+      "Docker",
+      "Microservices",
+      "K8s"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "上海",
+    "salary": "51k-62k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_037",
+    "name": "候选人37",
+    "job_title": "前端工程师",
+    "years_of_experience": 9,
+    "skills": [
+      "Vue",
+      "TypeScript",
+      "Webpack"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "47k-55k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_065",
+    "name": "候选人65",
+    "job_title": "前端工程师",
+    "years_of_experience": 4,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Vue",
+      "Node.js"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "上海",
+    "salary": "18k-28k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 50
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_080",
+    "name": "候选人80",
+    "job_title": "Java开发",
+    "years_of_experience": 6,
+    "skills": [
+      "K8s",
+      "Spring Boot",
+      "Docker",
+      "Microservices",
+      "MySQL",
+      "Kafka"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "广州",
+    "salary": "35k-45k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_061",
+    "name": "候选人61",
+    "job_title": "前端工程师",
+    "years_of_experience": 1,
+    "skills": [
+      "Vue",
+      "JavaScript",
+      "TypeScript",
+      "CSS"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "广州",
+    "salary": "10k-21k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_035",
+    "name": "候选人35",
+    "job_title": "前端工程师",
+    "years_of_experience": 1,
+    "skills": [
+      "Webpack",
+      "HTML",
+      "JavaScript"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "北京",
+    "salary": "10k-21k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_174",
+    "name": "候选人174",
+    "job_title": "产品经理",
+    "years_of_experience": 4,
+    "skills": [
+      "Sketch",
+      "Figma",
+      "PRD",
+      "Axure",
+      "User Research",
+      "Data Analysis"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "15k-29k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 12
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_092",
+    "name": "候选人92",
+    "job_title": "数据科学家",
+    "years_of_experience": 10,
+    "skills": [
+      "Tableau",
+      "Hadoop",
+      "Python",
+      "A/B Testing",
+      "SQL"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "54k-72k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_108",
+    "name": "候选人108",
+    "job_title": "产品经理",
+    "years_of_experience": 4,
+    "skills": [
+      "Axure",
+      "Sketch",
+      "PRD",
+      "User Research"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "北京",
+    "salary": "24k-29k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_027",
+    "name": "候选人27",
+    "job_title": "前端工程师",
+    "years_of_experience": 15,
+    "skills": [
+      "TypeScript",
+      "Webpack",
+      "Node.js",
+      "Vue"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "80k-91k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 28
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_185",
+    "name": "候选人185",
+    "job_title": "前端工程师",
+    "years_of_experience": 1,
+    "skills": [
+      "Webpack",
+      "TypeScript",
+      "Node.js"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "上海",
+    "salary": "10k-18k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_180",
+    "name": "候选人180",
+    "job_title": "前端工程师",
+    "years_of_experience": 11,
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "React"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "60k-68k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 6
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_116",
+    "name": "候选人116",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "Axure",
+      "Data Analysis",
+      "User Research",
+      "PRD",
+      "Figma"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "57k-67k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_168",
+    "name": "候选人168",
+    "job_title": "产品经理",
+    "years_of_experience": 4,
+    "skills": [
+      "User Research",
+      "Sketch",
+      "Data Analysis",
+      "Figma"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "15k-26k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_119",
+    "name": "候选人119",
+    "job_title": "前端工程师",
+    "years_of_experience": 4,
+    "skills": [
+      "Node.js",
+      "Webpack",
+      "Vue",
+      "React",
+      "HTML",
+      "JavaScript"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "上海",
+    "salary": "25k-34k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_187",
+    "name": "候选人187",
+    "job_title": "Java开发",
+    "years_of_experience": 10,
+    "skills": [
+      "Kafka",
+      "Java",
+      "MySQL"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "47k-55k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_154",
+    "name": "候选人154",
+    "job_title": "数据科学家",
+    "years_of_experience": 3,
+    "skills": [
+      "SQL",
+      "Statistics",
+      "Hadoop",
+      "Tableau",
+      "Python"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "19k-31k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4539
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_140",
+    "name": "候选人140",
+    "job_title": "Python开发者",
+    "years_of_experience": 6,
+    "skills": [
+      "Django",
+      "Python",
+      "Flask",
+      "Pandas",
+      "FastAPI"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "33k-42k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3677
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_143",
+    "name": "候选人143",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "PRD",
+      "Figma",
+      "Data Analysis",
+      "User Research",
+      "Axure"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "广州",
+    "salary": "55k-72k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_038",
+    "name": "候选人38",
+    "job_title": "Java开发",
+    "years_of_experience": 5,
+    "skills": [
+      "K8s",
+      "Docker",
+      "MySQL",
+      "Redis",
+      "Java"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "21k-27k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 16
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_191",
+    "name": "候选人191",
+    "job_title": "产品经理",
+    "years_of_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Axure",
+      "Sketch",
+      "PRD",
+      "User Research",
+      "Figma"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "12k-32k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_053",
+    "name": "候选人53",
+    "job_title": "前端工程师",
+    "years_of_experience": 11,
+    "skills": [
+      "Vue",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "React"
+    ],
+    "company": "美团",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "59k-71k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_123",
+    "name": "候选人123",
+    "job_title": "Python开发者",
+    "years_of_experience": 6,
+    "skills": [
+      "Django",
+      "FastAPI",
+      "Python",
+      "Pandas",
+      "Flask"
+    ],
+    "company": "字节跳动",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "29k-49k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_051",
+    "name": "候选人51",
+    "job_title": "Python开发者",
+    "years_of_experience": 15,
+    "skills": [
+      "NumPy",
+      "Python",
+      "Celery"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "75k-87k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 5
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_010",
+    "name": "候选人10",
+    "job_title": "算法工程师",
+    "years_of_experience": 1,
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Deep Learning",
+      "PyTorch",
+      "Machine Learning"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "10k-12k",
+    "papers": [
+      "ICML",
+      "ECCV"
+    ],
+    "dynamic_attributes": {
+      "github_stars": 2260,
+      "publications": [
+        "ICML",
+        "ECCV"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_082",
+    "name": "候选人82",
+    "job_title": "前端工程师",
+    "years_of_experience": 4,
+    "skills": [
+      "TypeScript",
+      "HTML",
+      "React",
+      "Node.js",
+      "JavaScript",
+      "Vue"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "北京",
+    "salary": "22k-42k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_171",
+    "name": "候选人171",
+    "job_title": "Python开发者",
+    "years_of_experience": 12,
+    "skills": [
+      "Python",
+      "Pandas",
+      "Scrapy",
+      "NumPy",
+      "Celery",
+      "FastAPI"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "55k-66k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_165",
+    "name": "候选人165",
+    "job_title": "前端工程师",
+    "years_of_experience": 6,
+    "skills": [
+      "CSS",
+      "Vue",
+      "JavaScript"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "26k-32k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_152",
+    "name": "候选人152",
+    "job_title": "前端工程师",
+    "years_of_experience": 10,
+    "skills": [
+      "React",
+      "CSS",
+      "TypeScript",
+      "Webpack"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "广州",
+    "salary": "55k-63k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 24
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_153",
+    "name": "候选人153",
+    "job_title": "前端工程师",
+    "years_of_experience": 3,
+    "skills": [
+      "TypeScript",
+      "Webpack",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "12k-22k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_189",
+    "name": "候选人189",
+    "job_title": "数据科学家",
+    "years_of_experience": 4,
+    "skills": [
+      "Spark",
+      "Tableau",
+      "Statistics",
+      "A/B Testing",
+      "Hadoop",
+      "Python"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "23k-29k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_005",
+    "name": "候选人5",
+    "job_title": "算法工程师",
+    "years_of_experience": 2,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent"
+    ],
+    "company": "腾讯",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "10k-26k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3514
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_194",
+    "name": "候选人194",
+    "job_title": "Python开发者",
+    "years_of_experience": 14,
+    "skills": [
+      "Flask",
+      "FastAPI",
+      "NumPy"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "广州",
+    "salary": "67k-80k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3763
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_199",
+    "name": "候选人199",
+    "job_title": "数据科学家",
+    "years_of_experience": 8,
+    "skills": [
+      "Hadoop",
+      "Python",
+      "Statistics",
+      "SQL",
+      "Tableau"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "43k-61k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 18
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_016",
+    "name": "候选人16",
+    "job_title": "Java开发",
+    "years_of_experience": 10,
+    "skills": [
+      "Microservices",
+      "Docker",
+      "Redis",
+      "K8s",
+      "Spring Boot"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "广州",
+    "salary": "47k-53k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_097",
+    "name": "候选人97",
+    "job_title": "Python开发者",
+    "years_of_experience": 12,
+    "skills": [
+      "Django",
+      "Celery",
+      "Pandas",
+      "Flask"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "60k-71k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4319
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_121",
+    "name": "候选人121",
+    "job_title": "数据科学家",
+    "years_of_experience": 12,
+    "skills": [
+      "Statistics",
+      "Python",
+      "Spark",
+      "Hadoop",
+      "SQL"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "61k-74k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_054",
+    "name": "候选人54",
+    "job_title": "产品经理",
+    "years_of_experience": 10,
+    "skills": [
+      "User Research",
+      "Axure",
+      "PRD",
+      "Figma",
+      "Data Analysis",
+      "Sketch"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "50k-68k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_133",
+    "name": "候选人133",
+    "job_title": "前端工程师",
+    "years_of_experience": 15,
+    "skills": [
+      "CSS",
+      "Webpack",
+      "TypeScript",
+      "HTML",
+      "JavaScript"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "广州",
+    "salary": "72k-82k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_184",
+    "name": "候选人184",
+    "job_title": "产品经理",
+    "years_of_experience": 14,
+    "skills": [
+      "Sketch",
+      "User Research",
+      "Figma"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "北京",
+    "salary": "68k-77k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4405,
+      "tech_blog_posts": 50
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_170",
+    "name": "候选人170",
+    "job_title": "数据科学家",
+    "years_of_experience": 1,
+    "skills": [
+      "Statistics",
+      "Python",
+      "Spark",
+      "Hadoop"
+    ],
+    "company": "美团",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "10k-15k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_163",
+    "name": "候选人163",
+    "job_title": "前端工程师",
+    "years_of_experience": 3,
+    "skills": [
+      "HTML",
+      "JavaScript",
+      "Webpack"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "15k-24k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4219
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_033",
+    "name": "候选人33",
+    "job_title": "Java开发",
+    "years_of_experience": 7,
+    "skills": [
+      "MySQL",
+      "Microservices",
+      "Java",
+      "Kafka",
+      "K8s",
+      "Redis"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "北京",
+    "salary": "36k-51k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_193",
+    "name": "候选人193",
+    "job_title": "数据科学家",
+    "years_of_experience": 15,
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Statistics"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "广州",
+    "salary": "71k-85k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_049",
+    "name": "候选人49",
+    "job_title": "产品经理",
+    "years_of_experience": 1,
+    "skills": [
+      "PRD",
+      "Figma",
+      "Data Analysis",
+      "Sketch",
+      "User Research"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "10k-20k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_081",
+    "name": "候选人81",
+    "job_title": "数据科学家",
+    "years_of_experience": 11,
+    "skills": [
+      "Statistics",
+      "A/B Testing",
+      "SQL",
+      "Hadoop",
+      "Python"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "60k-72k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4701
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_073",
+    "name": "候选人73",
+    "job_title": "Python开发者",
+    "years_of_experience": 15,
+    "skills": [
+      "FastAPI",
+      "Django",
+      "Pandas",
+      "Python",
+      "NumPy"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "广州",
+    "salary": "80k-87k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4960
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_145",
+    "name": "候选人145",
+    "job_title": "数据科学家",
+    "years_of_experience": 4,
+    "skills": [
+      "Tableau",
+      "Python",
+      "Hadoop"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "深圳",
+    "salary": "15k-24k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_177",
+    "name": "候选人177",
+    "job_title": "前端工程师",
+    "years_of_experience": 11,
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "TypeScript",
+      "CSS"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "58k-76k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4074
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_101",
+    "name": "候选人101",
+    "job_title": "Python开发者",
+    "years_of_experience": 3,
+    "skills": [
+      "Celery",
+      "Pandas",
+      "Django",
+      "FastAPI",
+      "Flask",
+      "Python"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "上海",
+    "salary": "19k-27k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_030",
+    "name": "候选人30",
+    "job_title": "Python开发者",
+    "years_of_experience": 10,
+    "skills": [
+      "NumPy",
+      "Flask",
+      "Python"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "上海",
+    "salary": "46k-59k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_135",
+    "name": "候选人135",
+    "job_title": "Python开发者",
+    "years_of_experience": 12,
+    "skills": [
+      "Celery",
+      "Python",
+      "NumPy",
+      "Django",
+      "Flask",
+      "Pandas"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "上海",
+    "salary": "58k-72k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_159",
+    "name": "候选人159",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "PRD",
+      "Figma",
+      "Axure"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "广州",
+    "salary": "52k-59k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_182",
+    "name": "候选人182",
+    "job_title": "前端工程师",
+    "years_of_experience": 13,
+    "skills": [
+      "JavaScript",
+      "Webpack",
+      "React"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "北京",
+    "salary": "66k-71k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_110",
+    "name": "候选人110",
+    "job_title": "Java开发",
+    "years_of_experience": 10,
+    "skills": [
+      "Spring Boot",
+      "MySQL",
+      "Docker",
+      "Java",
+      "K8s",
+      "Redis"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "广州",
+    "salary": "48k-57k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 4400
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_122",
+    "name": "候选人122",
+    "job_title": "数据科学家",
+    "years_of_experience": 7,
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "Spark",
+      "Statistics",
+      "Hadoop"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "广州",
+    "salary": "32k-42k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_040",
+    "name": "候选人40",
+    "job_title": "产品经理",
+    "years_of_experience": 10,
+    "skills": [
+      "PRD",
+      "Data Analysis",
+      "Sketch",
+      "Axure",
+      "Figma"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "55k-74k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_164",
+    "name": "候选人164",
+    "job_title": "前端工程师",
+    "years_of_experience": 11,
+    "skills": [
+      "Node.js",
+      "React",
+      "JavaScript"
+    ],
+    "company": "腾讯",
+    "education": "博士",
+    "location": "广州",
+    "salary": "60k-77k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_117",
+    "name": "候选人117",
+    "job_title": "产品经理",
+    "years_of_experience": 11,
+    "skills": [
+      "PRD",
+      "Sketch",
+      "User Research"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "上海",
+    "salary": "50k-64k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_086",
+    "name": "候选人86",
+    "job_title": "产品经理",
+    "years_of_experience": 6,
+    "skills": [
+      "Figma",
+      "Sketch",
+      "User Research",
+      "Axure"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "北京",
+    "salary": "32k-41k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1687
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_196",
+    "name": "候选人196",
+    "job_title": "Python开发者",
+    "years_of_experience": 9,
+    "skills": [
+      "Celery",
+      "Pandas",
+      "Scrapy",
+      "NumPy",
+      "FastAPI",
+      "Python"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "北京",
+    "salary": "48k-65k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_105",
+    "name": "候选人105",
+    "job_title": "产品经理",
+    "years_of_experience": 6,
+    "skills": [
+      "User Research",
+      "PRD",
+      "Sketch"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "上海",
+    "salary": "30k-47k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_098",
+    "name": "候选人98",
+    "job_title": "Java开发",
+    "years_of_experience": 5,
+    "skills": [
+      "Java",
+      "MySQL",
+      "Microservices"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "22k-35k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2355
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_018",
+    "name": "候选人18",
+    "job_title": "产品经理",
+    "years_of_experience": 6,
+    "skills": [
+      "PRD",
+      "Figma",
+      "Sketch",
+      "Data Analysis",
+      "User Research",
+      "Axure"
+    ],
+    "company": "腾讯",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "32k-46k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_107",
+    "name": "候选人107",
+    "job_title": "产品经理",
+    "years_of_experience": 15,
+    "skills": [
+      "PRD",
+      "Axure",
+      "Sketch",
+      "Data Analysis",
+      "User Research",
+      "Figma"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "广州",
+    "salary": "74k-84k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3495
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_074",
+    "name": "候选人74",
+    "job_title": "Java开发",
+    "years_of_experience": 10,
+    "skills": [
+      "Microservices",
+      "Docker",
+      "Redis",
+      "Spring Boot",
+      "Java",
+      "MySQL"
+    ],
+    "company": "初创公司B",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "49k-54k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1583
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_055",
+    "name": "候选人55",
+    "job_title": "数据科学家",
+    "years_of_experience": 13,
+    "skills": [
+      "A/B Testing",
+      "Spark",
+      "SQL",
+      "Tableau",
+      "Statistics",
+      "Hadoop"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "67k-73k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3116
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_146",
+    "name": "候选人146",
+    "job_title": "数据科学家",
+    "years_of_experience": 2,
+    "skills": [
+      "Python",
+      "Hadoop",
+      "Spark",
+      "Tableau",
+      "Statistics"
+    ],
+    "company": "腾讯",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "11k-17k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 49
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_102",
+    "name": "候选人102",
+    "job_title": "产品经理",
+    "years_of_experience": 12,
+    "skills": [
+      "Sketch",
+      "Data Analysis",
+      "PRD",
+      "Figma",
+      "Axure",
+      "User Research"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "广州",
+    "salary": "59k-71k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 15
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_111",
+    "name": "候选人111",
+    "job_title": "前端工程师",
+    "years_of_experience": 3,
+    "skills": [
+      "CSS",
+      "Vue",
+      "JavaScript",
+      "Webpack",
+      "TypeScript",
+      "HTML"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "12k-27k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 524
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_195",
+    "name": "候选人195",
+    "job_title": "数据科学家",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "Hadoop",
+      "Statistics"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "广州",
+    "salary": "24k-30k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_167",
+    "name": "候选人167",
+    "job_title": "Python开发者",
+    "years_of_experience": 6,
+    "skills": [
+      "Flask",
+      "NumPy",
+      "Celery"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "27k-45k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_046",
+    "name": "候选人46",
+    "job_title": "Python开发者",
+    "years_of_experience": 14,
+    "skills": [
+      "Pandas",
+      "Scrapy",
+      "Celery",
+      "Django"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "73k-86k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_025",
+    "name": "候选人25",
+    "job_title": "数据科学家",
+    "years_of_experience": 1,
+    "skills": [
+      "Python",
+      "Tableau",
+      "SQL",
+      "A/B Testing",
+      "Statistics"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "10k-14k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3108,
+      "tech_blog_posts": 6
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_070",
+    "name": "候选人70",
+    "job_title": "前端工程师",
+    "years_of_experience": 3,
+    "skills": [
+      "TypeScript",
+      "Vue",
+      "React",
+      "Node.js"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "11k-21k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_100",
+    "name": "候选人100",
+    "job_title": "前端工程师",
+    "years_of_experience": 1,
+    "skills": [
+      "Webpack",
+      "Node.js",
+      "React"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "10k-15k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2944
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_115",
+    "name": "候选人115",
+    "job_title": "数据科学家",
+    "years_of_experience": 12,
+    "skills": [
+      "Spark",
+      "A/B Testing",
+      "SQL"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "上海",
+    "salary": "59k-71k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2010
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_148",
+    "name": "候选人148",
+    "job_title": "Java开发",
+    "years_of_experience": 10,
+    "skills": [
+      "Redis",
+      "K8s",
+      "Java",
+      "Spring Boot",
+      "Docker",
+      "Kafka"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "52k-67k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_136",
+    "name": "候选人136",
+    "job_title": "数据科学家",
+    "years_of_experience": 15,
+    "skills": [
+      "Hadoop",
+      "Spark",
+      "Statistics"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "72k-91k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 39
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_036",
+    "name": "候选人36",
+    "job_title": "数据科学家",
+    "years_of_experience": 7,
+    "skills": [
+      "Spark",
+      "A/B Testing",
+      "SQL",
+      "Python"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "31k-36k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3924
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_052",
+    "name": "候选人52",
+    "job_title": "数据科学家",
+    "years_of_experience": 13,
+    "skills": [
+      "Spark",
+      "A/B Testing",
+      "Statistics",
+      "Tableau"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "上海",
+    "salary": "66k-82k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3386
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_009",
+    "name": "候选人9",
+    "job_title": "算法工程师",
+    "years_of_experience": 10,
+    "skills": [
+      "RAG",
+      "Python",
+      "CV"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "47k-57k",
+    "papers": [
+      "KDD"
+    ],
+    "dynamic_attributes": {
+      "github_stars": 15,
+      "publications": [
+        "KDD"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_155",
+    "name": "候选人155",
+    "job_title": "前端工程师",
+    "years_of_experience": 6,
+    "skills": [
+      "Vue",
+      "JavaScript",
+      "HTML",
+      "React",
+      "Webpack"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "上海",
+    "salary": "30k-40k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_014",
+    "name": "候选人14",
+    "job_title": "数据科学家",
+    "years_of_experience": 12,
+    "skills": [
+      "Tableau",
+      "Spark",
+      "Python"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "64k-70k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_124",
+    "name": "候选人124",
+    "job_title": "Java开发",
+    "years_of_experience": 1,
+    "skills": [
+      "Java",
+      "MySQL",
+      "Spring Boot",
+      "Redis",
+      "Microservices"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "10k-13k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2104
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_156",
+    "name": "候选人156",
+    "job_title": "数据科学家",
+    "years_of_experience": 13,
+    "skills": [
+      "Spark",
+      "Tableau",
+      "SQL",
+      "Python",
+      "Hadoop",
+      "Statistics"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "广州",
+    "salary": "62k-74k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_020",
+    "name": "候选人20",
+    "job_title": "Java开发",
+    "years_of_experience": 9,
+    "skills": [
+      "Microservices",
+      "MySQL",
+      "Redis",
+      "Spring Boot"
+    ],
+    "company": "初创公司B",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "44k-61k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_131",
+    "name": "候选人131",
+    "job_title": "数据科学家",
+    "years_of_experience": 14,
+    "skills": [
+      "Spark",
+      "Hadoop",
+      "A/B Testing",
+      "Statistics",
+      "Python"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "北京",
+    "salary": "71k-83k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2724
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_113",
+    "name": "候选人113",
+    "job_title": "产品经理",
+    "years_of_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Figma",
+      "Axure",
+      "User Research"
+    ],
+    "company": "初创公司B",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "14k-29k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_173",
+    "name": "候选人173",
+    "job_title": "Java开发",
+    "years_of_experience": 3,
+    "skills": [
+      "Redis",
+      "MySQL",
+      "Microservices",
+      "Java",
+      "K8s"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "北京",
+    "salary": "17k-33k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2482,
+      "tech_blog_posts": 38
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_042",
+    "name": "候选人42",
+    "job_title": "Java开发",
+    "years_of_experience": 12,
+    "skills": [
+      "Spring Boot",
+      "K8s",
+      "MySQL",
+      "Microservices",
+      "Java"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "广州",
+    "salary": "55k-75k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 9
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_160",
+    "name": "候选人160",
+    "job_title": "Python开发者",
+    "years_of_experience": 10,
+    "skills": [
+      "Pandas",
+      "Flask",
+      "FastAPI"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "北京",
+    "salary": "51k-61k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_060",
+    "name": "候选人60",
+    "job_title": "Python开发者",
+    "years_of_experience": 1,
+    "skills": [
+      "Celery",
+      "Pandas",
+      "FastAPI",
+      "NumPy",
+      "Scrapy",
+      "Python"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "10k-9k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_188",
+    "name": "候选人188",
+    "job_title": "Python开发者",
+    "years_of_experience": 12,
+    "skills": [
+      "Scrapy",
+      "Pandas",
+      "Django",
+      "Flask",
+      "Python"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "广州",
+    "salary": "63k-74k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_126",
+    "name": "候选人126",
+    "job_title": "Java开发",
+    "years_of_experience": 1,
+    "skills": [
+      "Kafka",
+      "Java",
+      "Docker",
+      "Redis",
+      "Microservices"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "10k-19k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_004",
+    "name": "候选人4",
+    "job_title": "算法工程师",
+    "years_of_experience": 11,
+    "skills": [
+      "CV",
+      "LLM",
+      "PyTorch",
+      "Agent",
+      "Deep Learning"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "杭州",
+    "salary": "55k-68k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 34
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_078",
+    "name": "候选人78",
+    "job_title": "数据科学家",
+    "years_of_experience": 8,
+    "skills": [
+      "Spark",
+      "Hadoop",
+      "SQL",
+      "Statistics",
+      "A/B Testing",
+      "Python"
+    ],
+    "company": "初创公司B",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "43k-48k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1082
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_178",
+    "name": "候选人178",
+    "job_title": "Python开发者",
+    "years_of_experience": 7,
+    "skills": [
+      "Pandas",
+      "FastAPI",
+      "Django",
+      "Celery"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "北京",
+    "salary": "34k-51k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 747
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_012",
+    "name": "候选人12",
+    "job_title": "Python开发者",
+    "years_of_experience": 11,
+    "skills": [
+      "FastAPI",
+      "Pandas",
+      "Python",
+      "Celery",
+      "Flask"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "52k-72k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 22
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_095",
+    "name": "候选人95",
+    "job_title": "数据科学家",
+    "years_of_experience": 13,
+    "skills": [
+      "Spark",
+      "Python",
+      "SQL",
+      "Hadoop",
+      "Tableau"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "61k-74k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_112",
+    "name": "候选人112",
+    "job_title": "Python开发者",
+    "years_of_experience": 6,
+    "skills": [
+      "Django",
+      "Python",
+      "Celery",
+      "Scrapy",
+      "Flask",
+      "Pandas"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "27k-44k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 616
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_181",
+    "name": "候选人181",
+    "job_title": "前端工程师",
+    "years_of_experience": 7,
+    "skills": [
+      "Node.js",
+      "React",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Vue"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "北京",
+    "salary": "32k-50k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_048",
+    "name": "候选人48",
+    "job_title": "Java开发",
+    "years_of_experience": 14,
+    "skills": [
+      "Docker",
+      "K8s",
+      "Microservices",
+      "MySQL",
+      "Redis",
+      "Java"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "深圳",
+    "salary": "68k-75k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_088",
+    "name": "候选人88",
+    "job_title": "Python开发者",
+    "years_of_experience": 14,
+    "skills": [
+      "Scrapy",
+      "Celery",
+      "Python",
+      "Django",
+      "FastAPI"
+    ],
+    "company": "初创公司A",
+    "education": "本科",
+    "location": "广州",
+    "salary": "69k-81k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_075",
+    "name": "候选人75",
+    "job_title": "Python开发者",
+    "years_of_experience": 15,
+    "skills": [
+      "FastAPI",
+      "Flask",
+      "Python"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "上海",
+    "salary": "78k-95k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2666
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_013",
+    "name": "候选人13",
+    "job_title": "产品经理",
+    "years_of_experience": 15,
+    "skills": [
+      "User Research",
+      "Axure",
+      "PRD"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "深圳",
+    "salary": "80k-96k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 14
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_068",
+    "name": "候选人68",
+    "job_title": "Python开发者",
+    "years_of_experience": 7,
+    "skills": [
+      "NumPy",
+      "FastAPI",
+      "Scrapy"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "广州",
+    "salary": "35k-53k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_024",
+    "name": "候选人24",
+    "job_title": "数据科学家",
+    "years_of_experience": 12,
+    "skills": [
+      "Statistics",
+      "SQL",
+      "Python",
+      "A/B Testing",
+      "Tableau",
+      "Spark"
+    ],
+    "company": "京东",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "55k-67k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_192",
+    "name": "候选人192",
+    "job_title": "前端工程师",
+    "years_of_experience": 9,
+    "skills": [
+      "CSS",
+      "TypeScript",
+      "Vue",
+      "HTML",
+      "React",
+      "Webpack"
+    ],
+    "company": "初创公司B",
+    "education": "硕士",
+    "location": "深圳",
+    "salary": "43k-48k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 17
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_118",
+    "name": "候选人118",
+    "job_title": "产品经理",
+    "years_of_experience": 6,
+    "skills": [
+      "User Research",
+      "PRD",
+      "Axure"
+    ],
+    "company": "初创公司A",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "35k-52k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_045",
+    "name": "候选人45",
+    "job_title": "Python开发者",
+    "years_of_experience": 8,
+    "skills": [
+      "NumPy",
+      "Pandas",
+      "Python",
+      "Flask",
+      "Scrapy",
+      "Celery"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "上海",
+    "salary": "40k-54k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_128",
+    "name": "候选人128",
+    "job_title": "Python开发者",
+    "years_of_experience": 5,
+    "skills": [
+      "Flask",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "上海",
+    "salary": "20k-28k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_003",
+    "name": "候选人3",
+    "job_title": "算法工程师",
+    "years_of_experience": 8,
+    "skills": [
+      "CV",
+      "Python",
+      "PyTorch"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "44k-62k",
+    "papers": [
+      "CVPR"
+    ],
+    "dynamic_attributes": {
+      "publications": [
+        "CVPR"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_026",
+    "name": "候选人26",
+    "job_title": "数据科学家",
+    "years_of_experience": 7,
+    "skills": [
+      "Tableau",
+      "Spark",
+      "Hadoop",
+      "Statistics"
+    ],
+    "company": "字节跳动",
+    "education": "本科",
+    "location": "广州",
+    "salary": "33k-39k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_047",
+    "name": "候选人47",
+    "job_title": "前端工程师",
+    "years_of_experience": 10,
+    "skills": [
+      "CSS",
+      "React",
+      "Webpack",
+      "Node.js",
+      "HTML"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "45k-60k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_190",
+    "name": "候选人190",
+    "job_title": "Python开发者",
+    "years_of_experience": 7,
+    "skills": [
+      "Django",
+      "NumPy",
+      "Python",
+      "Scrapy"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "30k-49k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 2390,
+      "tech_blog_posts": 34
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_137",
+    "name": "候选人137",
+    "job_title": "Java开发",
+    "years_of_experience": 1,
+    "skills": [
+      "MySQL",
+      "Java",
+      "K8s",
+      "Microservices",
+      "Kafka"
+    ],
+    "company": "阿里巴巴",
+    "education": "博士",
+    "location": "杭州",
+    "salary": "10k-10k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_071",
+    "name": "候选人71",
+    "job_title": "数据科学家",
+    "years_of_experience": 4,
+    "skills": [
+      "A/B Testing",
+      "Statistics",
+      "Python",
+      "Hadoop"
+    ],
+    "company": "百度",
+    "education": "博士",
+    "location": "广州",
+    "salary": "21k-40k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 352
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_022",
+    "name": "候选人22",
+    "job_title": "Java开发",
+    "years_of_experience": 13,
+    "skills": [
+      "Microservices",
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "北京",
+    "salary": "68k-73k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 19
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_044",
+    "name": "候选人44",
+    "job_title": "数据科学家",
+    "years_of_experience": 1,
+    "skills": [
+      "Hadoop",
+      "Tableau",
+      "A/B Testing",
+      "SQL",
+      "Python"
+    ],
+    "company": "阿里巴巴",
+    "education": "本科",
+    "location": "北京",
+    "salary": "10k-14k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 34
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_007",
+    "name": "候选人7",
+    "job_title": "算法工程师",
+    "years_of_experience": 1,
+    "skills": [
+      "PyTorch",
+      "Agent",
+      "Machine Learning",
+      "TensorFlow",
+      "Deep Learning",
+      "RAG"
+    ],
+    "company": "阿里巴巴",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "10k-22k",
+    "papers": [
+      "KDD",
+      "ICCV",
+      "NeurIPS"
+    ],
+    "dynamic_attributes": {
+      "publications": [
+        "KDD",
+        "ICCV",
+        "NeurIPS"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_169",
+    "name": "候选人169",
+    "job_title": "数据科学家",
+    "years_of_experience": 8,
+    "skills": [
+      "SQL",
+      "Hadoop",
+      "Tableau",
+      "A/B Testing",
+      "Spark"
+    ],
+    "company": "腾讯",
+    "education": "本科",
+    "location": "北京",
+    "salary": "38k-53k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3707
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_162",
+    "name": "候选人162",
+    "job_title": "前端工程师",
+    "years_of_experience": 6,
+    "skills": [
+      "TypeScript",
+      "React",
+      "CSS"
+    ],
+    "company": "美团",
+    "education": "硕士",
+    "location": "上海",
+    "salary": "33k-41k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_130",
+    "name": "候选人130",
+    "job_title": "Java开发",
+    "years_of_experience": 12,
+    "skills": [
+      "Microservices",
+      "Spring Boot",
+      "Docker",
+      "Java"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "深圳",
+    "salary": "64k-82k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 1026
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_197",
+    "name": "候选人197",
+    "job_title": "数据科学家",
+    "years_of_experience": 2,
+    "skills": [
+      "Hadoop",
+      "Spark",
+      "Python"
+    ],
+    "company": "百度",
+    "education": "硕士",
+    "location": "广州",
+    "salary": "10k-17k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_134",
+    "name": "候选人134",
+    "job_title": "Python开发者",
+    "years_of_experience": 7,
+    "skills": [
+      "FastAPI",
+      "NumPy",
+      "Scrapy",
+      "Pandas",
+      "Flask",
+      "Celery"
+    ],
+    "company": "百度",
+    "education": "本科",
+    "location": "广州",
+    "salary": "31k-38k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 3277,
+      "tech_blog_posts": 21
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_149",
+    "name": "候选人149",
+    "job_title": "Java开发",
+    "years_of_experience": 1,
+    "skills": [
+      "Microservices",
+      "Java",
+      "Kafka",
+      "Docker",
+      "Redis"
+    ],
+    "company": "阿里巴巴",
+    "education": "硕士",
+    "location": "深圳",
+    "salary": "10k-21k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_104",
+    "name": "候选人104",
+    "job_title": "Python开发者",
+    "years_of_experience": 1,
+    "skills": [
+      "Flask",
+      "NumPy",
+      "FastAPI"
+    ],
+    "company": "字节跳动",
+    "education": "博士",
+    "location": "上海",
+    "salary": "10k-30k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_141",
+    "name": "候选人141",
+    "job_title": "产品经理",
+    "years_of_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Figma",
+      "Sketch",
+      "Axure"
+    ],
+    "company": "美团",
+    "education": "本科",
+    "location": "上海",
+    "salary": "24k-35k",
+    "papers": [],
+    "dynamic_attributes": {
+      "tech_blog_posts": 50
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_077",
+    "name": "候选人77",
+    "job_title": "Python开发者",
+    "years_of_experience": 2,
+    "skills": [
+      "NumPy",
+      "Celery",
+      "Flask",
+      "Django",
+      "Pandas"
+    ],
+    "company": "京东",
+    "education": "博士",
+    "location": "北京",
+    "salary": "10k-22k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_200",
+    "name": "候选人200",
+    "job_title": "Java开发",
+    "years_of_experience": 7,
+    "skills": [
+      "Kafka",
+      "Redis",
+      "Docker",
+      "Java"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "北京",
+    "salary": "35k-45k",
+    "papers": [],
+    "dynamic_attributes": {},
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_001",
+    "name": "候选人1",
+    "job_title": "算法工程师",
+    "years_of_experience": 7,
+    "skills": [
+      "Machine Learning",
+      "Agent",
+      "CV"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "杭州",
+    "salary": "31k-38k",
+    "papers": [
+      "KDD",
+      "ACL",
+      "ICML"
+    ],
+    "dynamic_attributes": {
+      "publications": [
+        "KDD",
+        "ACL",
+        "ICML"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_183",
+    "name": "候选人183",
+    "job_title": "数据科学家",
+    "years_of_experience": 14,
+    "skills": [
+      "Spark",
+      "A/B Testing",
+      "Python",
+      "SQL"
+    ],
+    "company": "初创公司A",
+    "education": "博士",
+    "location": "上海",
+    "salary": "69k-80k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 154
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_008",
+    "name": "候选人8",
+    "job_title": "算法工程师",
+    "years_of_experience": 3,
+    "skills": [
+      "Agent",
+      "TensorFlow",
+      "PyTorch",
+      "RAG"
+    ],
+    "company": "阿里巴巴",
+    "education": "硕士",
+    "location": "深圳",
+    "salary": "11k-25k",
+    "papers": [
+      "NeurIPS"
+    ],
+    "dynamic_attributes": {
+      "publications": [
+        "NeurIPS"
+      ]
+    },
+    "match_score": null,
+    "explanation": null
+  },
+  {
+    "candidate_id": "cand_029",
+    "name": "候选人29",
+    "job_title": "数据科学家",
+    "years_of_experience": 15,
+    "skills": [
+      "Tableau",
+      "Hadoop",
+      "SQL",
+      "Python",
+      "A/B Testing",
+      "Spark"
+    ],
+    "company": "京东",
+    "education": "本科",
+    "location": "上海",
+    "salary": "79k-88k",
+    "papers": [],
+    "dynamic_attributes": {
+      "github_stars": 794
+    },
+    "match_score": null,
+    "explanation": null
+  }
+]
